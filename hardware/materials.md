@@ -1,16 +1,27 @@
 # Bill of Materials
 These are the materials needed to create the modular syringe driver and where to source them.
 
+## Screws & Quantities
+Screw | Quantity | Vendor
+--- | --- | ---
+M2.5 x 6mm | 6 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838124/)
+M3 x 6mm | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871207/)
+M2.5 x 12mm | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838130/)
+M3 x 10mm | 2 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/2328366/)
+M3 x 12mm | 4 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871229/)
+
 
 ## Stepper Motor
+
 The stepper motor used is a Nema 11, sourced from [Stepper Online](http://www.omc-stepperonline.com/threaded-rod-nema-11-external-linear-stepper-motor34mm-body-100mm-t5-x-2-p-203.html).
+An alternative is a [custom-made stepper motor](custom_stepper/) from Heason.
+Contact [Paul Sorrell](mailto:psorrell@heason.com) for more information.
+This is the preferred motor for this setup.
 
 The motor:
 
 ![Alt text](http://www.omc-stepperonline.com/images/11LS13-0754E-100B.jpg)
 
-An alternative is a [custom-made stepper motor](custom_stepper/) from Heason.
-Contact [Paul Sorrell](mailto:psorrell@heason.com) for more information.
 
 
 ## Stop Switch

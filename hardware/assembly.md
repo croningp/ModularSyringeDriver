@@ -173,5 +173,11 @@ Add the nuts and screw in place:
 ![Alt text](https://cloud.githubusercontent.com/assets/13821621/21387581/2385dfc0-c770-11e6-9723-547c8c18ed43.jpg)
 
 
-**That's all there is to it!**
+## Cabling the Stepper Motor & Microswitch
+* The convention for the Microswitch is:
+    * Red: 5v
+    * Black: Ground
+    * Blue: Signal
 
+* Stepper Motor:
+    * WORK IN PROGRESS
