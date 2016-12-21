@@ -2,6 +2,7 @@
 Welcome to the Modular Syringe Driver repository! Here, you will find all the necessary information to create your own version of this device.
 
 Here is the finished product:
+
 ![Alt img](https://cloud.githubusercontent.com/assets/13821621/21351274/a834174a-c6b3-11e6-9b17-f11d35228eb4.png)
 
 For a list of all the materials you will need, please see the [Materials](hardware/materials.md) documentation.
@@ -10,6 +11,7 @@ For a list of all the materials you will need, please see the [Materials](hardwa
 ## Modularity
 The appeal of this device is its modularity. Many different additions can be designed and printed for this device.
 Here are a few examples of possible additions:
+
 ![Alt text](https://cloud.githubusercontent.com/assets/13821621/21388125/cb2ab0be-c772-11e6-8bb6-918225a8d813.png)
 
 ## Dependencies

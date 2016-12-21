@@ -6,6 +6,7 @@ These are the materials needed to create the modular syringe driver and where to
 The stepper motor used is a Nema 11, sourced from [Stepper Online](http://www.omc-stepperonline.com/threaded-rod-nema-11-external-linear-stepper-motor34mm-body-100mm-t5-x-2-p-203.html).
 
 The motor:
+
 ![Alt text](http://www.omc-stepperonline.com/images/11LS13-0754E-100B.jpg)
 
 An alternative is a [custom-made stepper motor](custom_stepper/) from Heason.
@@ -44,4 +45,4 @@ Attached to the linear rail is a guide carraige, also sourced at [RS Components]
 
 
 ## 3D Prints
-Many of the parts needed to create this driver can be 3D printed. Please see the [Base](base/), [Oil Station](oil_station_addon/), and [Syringe](syringe_addon/) folders for the appropriate STL files.
+Many of the parts needed to create this driver can be 3D printed. Please see the [Basic Driver](basic_driver) and [Modular Additions](syringe_addon/) folders for the appropriate STL files.
