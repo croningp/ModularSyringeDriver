@@ -2,14 +2,15 @@
 This purpose of this guide is to explain how to assemble the basic syringe driver.
 
 ## What you will need
-In addition to the items listed in the [materials](hardware/materials.md) documentation, you will also need:
+In addition to the items listed in the [materials](materials.md) documentation.
 
-* 6x M2.5 6mm Screws 
-* 5x M3 6mm Screws
-* 5x M2.5 12mm Screws
-* 2x M3 10mm Screws
-* 4x M3 12mm Screws
-* Appropriately-sized nuts for each screw type
+Screw | Quantity | Vendor
+--- | --- | ---
+M2.5 x 6mm | 6 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838124/)
+M3 x 6mm | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871207/)
+M2.5 x 12mm | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838130/)
+M3 x 10mm | 2 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/2328366/)
+M3 x 12mm | 4 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871229/)
 
 
 ## Part 1: Attaching the base to the motor
