@@ -8,6 +8,9 @@ The stepper motor used is a Nema 11, sourced from [Stepper Online](http://www.om
 The motor:
 ![Alt text](http://www.omc-stepperonline.com/images/11LS13-0754E-100B.jpg)
 
+An alternative is a [custom-made stepper motor](custom_stepper/) from Heason.
+Contact [Paul Sorrell](mailto:psorrell@heason.com) for more information.
+
 
 ## Stop Switch
 The switch used on the syringe driver is a D2F Ultra Subminature Basic Switch, sourced from [Omron](http://uk.farnell.com/omron-electronic-components/d2f01lt/microswitch-hinge-lever-0-1/dp/1961085)
