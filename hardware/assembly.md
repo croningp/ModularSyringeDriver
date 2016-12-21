@@ -2,15 +2,23 @@
 This purpose of this guide is to explain how to assemble the basic syringe driver.
 
 ## What you will need
-Please see the [materials](materials.md) documentation for the full list of parts.
+Please see [Bill of Materials](materials.md) for detailed listing.
 
-Screw | Quantity | Vendor
+Item | Quantity | Vendor
 --- | --- | ---
-M2.5 x 6mm | 6 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838124/)
-M3 x 6mm | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871207/)
-M2.5 x 12mm | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838130/)
-M3 x 10mm | 2 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/2328366/)
-M3 x 12mm | 4 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871229/)
+M2.5 x 6mm Screw | 6 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838124/)
+M3 x 6mm Screw | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871207/)
+M2.5 x 12mm Screw | 5 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/4838130/)
+M3 x 10mm Screw | 2 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/2328366/)
+M3 x 12mm Screw | 4 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871229/)
+Stepper Motor | 1 | See [Bill of Materials](materials.md)
+Microswitch | 1 | [Omron](http://uk.farnell.com/omron-electronic-components/d2f01lt/microswitch-hinge-lever-0-1/dp/1961085)
+Arduino Mega 2560 | 1 | [Arduino.cc](https://www.arduino.cc/en/Main/ArduinoBoardMega2560)
+RAMPS v1.4 Shield | 1 | [Ooznest](http://ooznest.co.uk/RAMPS-14-Controller-Board-Premium&currency=GBP&language=en?gclid=Cj0KEQiAyuPCBRCimuayhb3qqvwBEiQAgz62kVp1GNCQKYvTIFOcvpG9ZQ0eJvKzC2Tw6_trZBFtpCMaAlxl8P8HAQ)
+DRV8825 Stepper Driver | 1 | [Pololu](https://www.pololu.com/product/2982)
+Linear Guide Rail | 1 | [RS Components](http://uk.rs-online.com/web/p/linear-guides-rails/6192391/)
+Linear Guide Carriage | 1 | [RS Components](http://uk.rs-online.com/web/p/linear-guides-guide-blocks-carriages/6192442/)
+3D Prints | 1x Each | [Basic Driver STLs](basic_driver_stls/), [Modular Addition STLs](modular_addition_stls/)
 
 
 ## Part 1: Attaching the base to the motor
