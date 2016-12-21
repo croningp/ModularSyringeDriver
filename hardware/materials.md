@@ -45,4 +45,4 @@ Attached to the linear rail is a guide carraige, also sourced at [RS Components]
 
 
 ## 3D Prints
-Many of the parts needed to create this driver can be 3D printed. Please see the [Basic Driver](basic_driver) and [Modular Additions](syringe_addon/) folders for the appropriate STL files.
+Many of the parts needed to create this driver can be 3D printed. Please see the [Basic Driver](basic_driver_stls/) and [Modular Additions](modular_additions_stls/) folders for the appropriate STL files.
