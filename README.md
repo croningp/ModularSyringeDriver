@@ -20,7 +20,7 @@ Here are a few examples of possible additions:
 * [Arduino CommandTools](https://github.com/croningp/Arduino-CommandTools)
 
 ## Assembly
-Please see the the [Assembly](assembly.md) documentation for information on assembly.
+Please see the the [Assembly](hardware/assembly.md) documentation for information on assembly.
 
 ## Example Usage
 Below is an example of how to use [commanduino](https://github.com/croningp/commanduino) to communicate with the syringe driver.
