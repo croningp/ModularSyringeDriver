@@ -2,7 +2,7 @@
 This purpose of this guide is to explain how to assemble the basic syringe driver.
 
 ## What you will need
-In addition to the items listed in the [materials](https://github.com/croningp/ModularSyringeDriver/hardware/materials.md) documentation, you will also need:
+In addition to the items listed in the [materials](hardware/materials.md) documentation, you will also need:
 
 * 6x M2.5 6mm Screws 
 * 5x M3 6mm Screws
