@@ -16,6 +16,7 @@ M3 x 12mm | 4 | [RS Components](http://uk.rs-online.com/web/p/socket-screws/1871
 The stepper motor used is a Nema 11, sourced from [Stepper Online](http://www.omc-stepperonline.com/threaded-rod-nema-11-external-linear-stepper-motor34mm-body-100mm-t5-x-2-p-203.html).
 
 An alternative is a [custom-made stepper motor](custom_stepper/) from Heason (This is the preferred motor for this setup).
+
 Contact [Paul Sorrell](mailto:psorrell@heason.com) for more information.
 
 The motor from Stepper Online:
