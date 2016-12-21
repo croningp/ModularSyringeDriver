@@ -2,7 +2,7 @@
 This purpose of this guide is to explain how to assemble the basic syringe driver.
 
 ## What you will need
-In addition to the items listed in the [materials](materials.md) documentation.
+Please see the [materials](materials.md) documentation for the full list of parts.
 
 Screw | Quantity | Vendor
 --- | --- | ---
