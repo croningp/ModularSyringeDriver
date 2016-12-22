@@ -182,11 +182,32 @@ Add the nuts and screw in place:
 ![Alt text](https://cloud.githubusercontent.com/assets/13821621/21387581/2385dfc0-c770-11e6-9723-547c8c18ed43.jpg)
 
 
-## Cabling the Stepper Motor & Microswitch
+## Cabling the Microswitch
 * The convention for the Microswitch is:
     * Red: 5v
     * Black: Ground
     * Blue: Signal
 
-* Stepper Motor:
-    * WORK IN PROGRESS
+![Alt text](https://cloud.githubusercontent.com/assets/13821621/21425148/4cac59ea-c83f-11e6-8f03-2d6ce6234f59.jpg)
+
+The order, from left to right, is as follows:
+* Left Pin: Blue(Signal)
+* Middle Pin: Black (Ground)
+* Right Pin: Red (5v Power)
+
+
+## Cabling the Stepper Motor
+* The stepper motor comes with 4 wires:
+    * Red
+    * Red/White
+    * Green
+    * Green/White
+
+To connect them to the ramps shield, the convention is as follows (Motor -> RAMPS connector):
+* Red/White -> Black
+* Red -> Green
+* Green/White -> Red
+* Green -> Blue
+
+Example:
+![Alt text](https://cloud.githubusercontent.com/assets/13821621/21425329/73f397a6-c840-11e6-9e26-e1ced6010145.jpg)
