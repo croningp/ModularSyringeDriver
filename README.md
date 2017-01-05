@@ -87,6 +87,7 @@ SYRINGE = Syringe(SYRINGE_AXIS, SYRINGE_MAX)
 ```
 
 ## Authors
-Written as part of the Cronin Group 2017, School of Chemistry, University of Glasgow
+Written as part of the Cronin Group 2017, School of Chemistry, University of Glasgow.
+
 Designs and code by [Jonathan Grizou](http://www.chem.gla.ac.uk/cronin/members/Jonathan/)
 Documentation by [Graham Keenan](https://github.com/ShinRa26)
