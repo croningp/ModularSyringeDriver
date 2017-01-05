@@ -181,6 +181,9 @@ Add the Syringe Cover:
 Add the nuts and screw in place:
 ![Alt text](https://cloud.githubusercontent.com/assets/13821621/21387581/2385dfc0-c770-11e6-9723-547c8c18ed43.jpg)
 
+To ensure the nuts are secured in place, add some Screw Lock glue to the nuts:
+![Alt text](https://cloud.githubusercontent.com/assets/13821621/21680484/fad30174-d341-11e6-89f3-c8b75a4cbf29.jpg)
+
 
 ## Cabling the Microswitch
 * The convention for the Microswitch is:
@@ -194,6 +197,8 @@ The order, from left to right, is as follows:
 * Left Pin: Blue(Signal)
 * Middle Pin: Black (Ground)
 * Right Pin: Red (5v Power)
+
+![Alt text](https://cloud.githubusercontent.com/assets/13821621/21680506/1506a906-d342-11e6-88c4-2fe4dadd513a.jpg)
 
 
 ## Cabling the Stepper Motor
@@ -211,3 +216,7 @@ To connect them to the ramps shield, the convention is as follows (Motor -> RAMP
 
 Example:
 ![Alt text](https://cloud.githubusercontent.com/assets/13821621/21425329/73f397a6-c840-11e6-9e26-e1ced6010145.jpg)
+
+Attaching to the RAMPS shield (also applies to the Microswitch):
+![Alt text](https://cloud.githubusercontent.com/assets/13821621/21680536/3a97ce2a-d342-11e6-9ec5-10f457254b4c.jpg)
+

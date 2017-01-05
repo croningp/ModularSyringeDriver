@@ -32,6 +32,40 @@ Instantiating an Axis object with the stepper information and passing it to the 
 
 See the [Syringe software](software/Syringe.py) for more information on the syringe commands. 
 
+JSON Example for setting up the Linear Accelerator Actuator in commanduino:
+```json
+
+{
+  "ios" : [
+    {
+      "port": "/dev/tty.usbmodem1411"
+    },
+    {
+      "port": "/dev/ttyACM0"
+    },
+    {
+      "port": "/dev/ttyACM1"
+    },
+    {
+      "port": "/dev/ttyACM2"
+    }
+  ],
+  "devices": {
+    "stepper": {
+      "command_id": "LS1",
+      "config": {
+        "enabled_acceleration": false,
+        "speed": 1000,
+        "max_speed": 1000,
+        "acceleration": 1000
+      }
+    }
+  }
+}
+```
+
+Python code for setting up the Syringe Driver: 
+
 ``` python
 from commanduino import CommandManager
 from commanduino.devices.axis import Axis
