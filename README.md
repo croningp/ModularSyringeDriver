@@ -30,7 +30,7 @@ We also import the Axis device from Commanduino which allows the syringe to be p
 Variables are set up for the individual components of the driver, such as how many mm/step the motor should move, and the maximum volume of the syringe etc.
 Instantiating an Axis object with the stepper information and passing it to the Syringe allows us full access to the Syringe commands.
 
-See the [Syringe software](software/Syringe.py) for more information on the syringe commands. 
+See the [Syringe software](software/syringe.py) for more information on the syringe commands. 
 
 JSON Example for setting up the Linear Accelerator Actuator in commanduino:
 ```json
