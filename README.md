@@ -5,6 +5,10 @@ Here is the finished product:
 
 ![Alt img](https://cloud.githubusercontent.com/assets/13821621/21351274/a834174a-c6b3-11e6-9b17-f11d35228eb4.png)
 
+All designs are hosted on Onshape:
+* [Syringe Driver](https://cad.onshape.com/documents/56ab4447e4b0dff6d869c7ac/w/10403a3c4431f66501924e81/e/ad868b310df8ef7bb56f2516)
+* [Modularity](https://cad.onshape.com/documents/20421eb13def16ddb65f3155/w/9ed7d19760b1ecfa0f48b9ff/e/2a6517c7e659cf206dda40c0)
+
 For a list of all the materials you will need, please see the [Materials](hardware/materials.md) documentation.
 * Note: A 3D printer is required to obtain some of these materials.
 
@@ -81,3 +85,8 @@ SYRINGE_MAX = 235
 SYRINGE_AXIS = Axis(cmdMng.S1, LINEAR_STEPPER_UNIT_PER_STEP * SYRINGUE_UNIT_PER_MM / MICROSTEP, 0, SYRINGE_MAX)
 SYRINGE = Syringe(SYRINGE_AXIS, SYRINGE_MAX)
 ```
+
+## Authors
+Written as part of the Cronin Group 2017, School of Chemistry, University of Glasgow
+Designs and code by [Jonathan Grizou](http://www.chem.gla.ac.uk/cronin/members/Jonathan/)
+Documentation by [Graham Keenan](https://github.com/ShinRa26)
