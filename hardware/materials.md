@@ -43,6 +43,7 @@ The syringe driver is controlled via an Arduino Mega 2560 board fitted with a RA
 The stepper drivers used to control the stepper motor are [DRV8825 Drivers](https://www.pololu.com/product/2982)
 ![Alt text](https://a.pololu-files.com/picture/0J5806.1200.jpg?c8b077547880443247671b2d4d534ef4_)
 
+Here is a video on how to tune the driver to deliver the desired Amperage: https://www.youtube.com/watch?feature=player_embedded&v=89BHS9hfSUk
 
 ## Linear Guide Rail
 The syringe is guided by a linear rail, sourced at [RS Components](http://uk.rs-online.com/web/p/linear-guides-rails/6192391/)
